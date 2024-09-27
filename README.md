@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhay Sharma
-- 🌱 I’m currently learning Web Development.
+  
 
 
 
