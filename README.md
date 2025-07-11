@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Abhay Sharma!
 
-💻 **Full-Stack Developer** working with the **MERN stack**  
-📈 Currently focused on **upskilling** with a deep dive into **app performance** & **scalability**  
-🧠 Passionate about **writing clean code**, exploring **modern dev tools**, and **system design**  
-🌱 **#learninginpublic** as I grow into a well-rounded **software engineer**  
-🎥 Sharing insights on **tech, code, and productivity** from my journey  
+🎯 Self-taught Full-Stack Developer with a strong foundation in the MERN stack  
+🎓 B.Com Graduate | Internship @ Iconier Digital Agency (Las Vegas)  
+⚙️ Building scalable apps using React, Node.js, MongoDB, PostgreSQL & more  
+💬 Passionate about clean code, real-time features & performance optimization  
+🌐 I love building projects that solve real-world problems
 
 
 
@@ -17,5 +17,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+## 🧠 Currently Learning
+- TypeScript, GraphQL, and System Design fundamentals
+
+
+## 📫 Let’s Connect!
+- [LinkedIn](https://www.linkedin.com/in/abhay-sharma4/)
+- [Portfolio](https://www.devabhay.site/)
+- [Email](mailto:abhaysharma0480@gmail.com)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
